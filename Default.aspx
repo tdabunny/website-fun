@@ -13,6 +13,10 @@
         .auto-style1 {
             color: #33CC33;
         }
+        .Introduction {
+            font-style: italic;
+            color: #0000FF;
+        }
     </style>
     <link href="Styles/Styles.css" rel="stylesheet" type="text/css" />
 </head>
@@ -24,7 +28,7 @@
         <div id="MainContent">
     
         <h1>Hi there visitor and welcome to Planet Wrox</h1>
-        <p>
+        <p class="Introduction">
             We are glad you are <span class="auto-style1">paying a visit</span> to <a href="http://www.PlanetWrox.com">www.PlanetWrox.com</a>, the coolest music site on the internet.</p>
         <p>
             &nbsp;</p>
